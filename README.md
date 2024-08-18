@@ -47,7 +47,7 @@ To view the project locally:
 
 ## Screenshots
 
-![Netflix Clone Screenshot](![Screenshot (474)](https://github.com/user-attachments/assets/4b6d711f-58ca-4996-9186-1492280ffaec)
+(![Screenshot (474)](https://github.com/user-attachments/assets/4b6d711f-58ca-4996-9186-1492280ffaec)
 )
 
 ## Contributing
