@@ -4,7 +4,7 @@
 This project is a simple clone of Netflix, created using HTML and CSS. It was developed during my internship at **System Tron** as part of a hands-on learning experience in front-end web development.
 
 # Host Link
-https://neocities.org/dashboard?dir=Netflix007
+https://kiruthikaganesan757.neocities.org/Netflix007/
 
 ## Table of Contents
 
